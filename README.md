@@ -11,8 +11,6 @@ jdk切换.py - 主脚本文件
 jdk_paths.txt - JDK 路径配置文件
 jdk_paths.txt 文件格式
 配置文件 jdk_paths.txt 应包含 JDK 版本和路径的映射，每行的格式如下：
-
-# 这是注释
 11=D:\java11
 1.8=D:\java8
 17=D:\java17
@@ -33,8 +31,6 @@ python jdk切换.py
 
 示例
 正确的 jdk_paths.txt 文件内容
-
-# 这是注释
 11=D:\java11
 1.8=D:\java8
 17=D:\java17
